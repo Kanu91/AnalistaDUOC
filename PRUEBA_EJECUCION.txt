@@ -1,0 +1,36 @@
+Se cargaron 6 entidades desde resources/entidades.csv.
+=== SISTEMA AGENCIA LLANQUIHUE TOUR ===
+Entidades cargadas: 6
+
+1. CLIENTE | María González | RUT: 12.345.678-9 | Comuna: Llanquihue | Tour: Ruta gastronómica | Viajeros: 4
+   Acción sugerida: coordinar tour para 4 viajeros.
+--------------------------------------------------
+2. CLIENTE | Carlos Muñoz | RUT: 15.987.654-3 | Comuna: Puerto Varas | Tour: Paseo lacustre | Viajeros: 2
+   Acción sugerida: coordinar tour para 2 viajeros.
+--------------------------------------------------
+3. GUÍA TURÍSTICO | Ana Soto | RUT: 10.222.333-4 | Comuna: Frutillar | Especialidad: Excursiones culturales | Experiencia: 8 años
+   Acción sugerida: asignar a una actividad de Excursiones culturales.
+--------------------------------------------------
+4. COLABORADOR EXTERNO | Pedro Rojas | RUT: 17.456.321-2 | Comuna: Puerto Montt | Empresa: Transportes Patagonia | Servicio: Traslado de pasajeros
+   Acción sugerida: confirmar servicio con Transportes Patagonia.
+--------------------------------------------------
+5. VEHÍCULO | Patente: ABCD12 | Mercedes-Benz Sprinter | Tipo: Van turística | Capacidad: 16 | Estado: Disponible
+   Acción sugerida: vehículo disponible para asignación.
+--------------------------------------------------
+6. VEHÍCULO | Patente: KLPD34 | Hyundai H1 | Tipo: Minibús | Capacidad: 10 | Estado: No disponible
+   Acción sugerida: vehículo no disponible; revisar planificación.
+--------------------------------------------------
+
+=== ESTADÍSTICAS ===
+Total de entidades: 6
+Clientes: 2
+Guías turísticos: 1
+Colaboradores externos: 1
+Vehículos: 2
+Vehículos disponibles: 1
+
+=== RESULTADO DE BÚSQUEDA: Puerto ===
+CLIENTE | Carlos Muñoz | RUT: 15.987.654-3 | Comuna: Puerto Varas | Tour: Paseo lacustre | Viajeros: 2
+COLABORADOR EXTERNO | Pedro Rojas | RUT: 17.456.321-2 | Comuna: Puerto Montt | Empresa: Transportes Patagonia | Servicio: Traslado de pasajeros
+
+Modo consola finalizado. La interfaz gráfica no será iniciada.
